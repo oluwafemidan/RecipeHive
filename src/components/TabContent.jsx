@@ -1,5 +1,5 @@
 import TabButton from "./shared/TabButton";
-import { HELP } from "./utils/data";
+import { HELP } from "./utils/Data";
 import { Container } from "./shared/Container";
 import { useState } from "react";
 
